@@ -65,7 +65,7 @@ const ScrollComponent = ({dataList, offset, totalCount, fetchData scrollTarget }
 
 👤 **SabirAmeen**
 
-- Github: [@BibhuVijayan](https://github.com/SabirAmeen)
+- Github: [@SabirAmeen](https://github.com/SabirAmeen)
 
 ## Show your support
 
